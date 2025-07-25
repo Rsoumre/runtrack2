@@ -1,0 +1,12 @@
+body {
+    background-color: #38abc4;
+    font-family: 'Courier New', monospace;
+    color: hsl(0, 11%, 98%);
+}
+
+input, select {
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid crimson;
+    background-color: #fff0f0;
+}
